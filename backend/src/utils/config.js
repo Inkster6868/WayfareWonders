@@ -1,0 +1,1 @@
+export const BASE_URL='https://wayfarewonders-api.onrender.com/api/v1';
